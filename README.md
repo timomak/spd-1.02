@@ -1,5 +1,6 @@
 # SPD 1.02 - Engineering Careers 2
 Github ([link](https://github.com/Make-School-Courses/SPD-1.02-Engineering-Careers-2))
+
 Syllabus ([link](http://make.sc/spd1.02-repo))
 
 # Course Learning Objectives
