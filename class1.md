@@ -61,4 +61,37 @@ Your response to Juniors who:
 * `Ask for Permission Before Giving Advice` — This maintains their agency and opens them up to your advice.
 * `Manage Expectations` — Surprises make people feel unsafe. Make sure people know what you think is coming up, whether good or bad.
 
-> You gotta make expectations that you can achieve. That will give you happiness, to meet or slightly exceed the expectation. If the goal is far from reach, set an expecation that will bring you closer to the goal and build towards it little by little. 
+> You gotta make expectations that you can achieve. That will give you happiness, to meet or slightly exceed the expectation. If the goal is far from reach, set an expecation that will bring you closer to the goal and build towards it little by little.
+
+# Questions to build trust at Make School
+> All the coaches asked these questions.
+
+* Where are you from?
+* Do you have siblings? What are they like?
+* Do you have any pets?
+* How’s your transition to Make School been?
+
+# Case Study Problem Child
+> As an engineering lead, you have a direct report who constantly questions your authority and doesn’t follow your instructions/requests. How do you address the situation while building trust?
+
+* Approach the person alone in a safe environment
+  * Make the feel level with you (don't make yourself seem above them)
+* Ask them for personal feedback and general feedback
+  * For the betterment of the company and your self improvement
+
+# Case Studies Bossy co-worker
+> You come into the office to see the head of marketing berating one of your direct reports for not catching a bug, instead of talking to you directly. How do you respect the marketer while requesting they change their behavior?
+
+* Approach the person in a safe environment
+* Ask them for their feedback strategy or plan "because it's really interesting"
+* Find what's good and point it out
+  * Let him find the mistakes in his plan
+
+Guide:
+1. Approach in their safe place
+2. Let them vent
+3. Level with them
+4. Find compromises
+
+# Peter Principle
+![peter](/img/peter-principle.png)
