@@ -29,21 +29,3 @@ Situation it works well
 Situation it doesn't work well
 * When there's a still-mate - People might not like it when you make an executive decision (especially if there's a deadline.)
 * Tight deadline - Gotta get everyone's approval
-
-# Authoritarian
-> They tell us what to do
-
-Good:
-* Tight deadline
-* Maximizing commitment
-
-Bad:
-* Conflict resolution
-* Coming up with new ideas
-
-# People Pleasers
-> The type of leadership you would expect
-
-# Homework
-* Do 2 code reviews
-* Check for more on repo page.
